@@ -1,15 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.sistemajogos;
 
 import java.util.Scanner;
 
-/**
- *
- * @author aluno
- */
 public class AdivinheONúmero {
     int numGerado = (int)(Math.random() * 100);
     Scanner in = new Scanner(System.in);
